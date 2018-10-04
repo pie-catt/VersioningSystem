@@ -10,11 +10,7 @@ namespace MyVersion
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("HelloCiao");
-            Console.ReadLine();
-            Console.WriteLine("Ramo Master");
-            Console.WriteLine("Ora ramo Beta");
-            Console.WriteLine("Secondo commit su Beta");
+            Console.WriteLine("HelloFeat1");
         }
     }
 }
