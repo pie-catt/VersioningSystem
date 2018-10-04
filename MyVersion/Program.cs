@@ -10,7 +10,7 @@ namespace MyVersion
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello");
+            Console.WriteLine("HelloCiao");
             Console.ReadLine();
             Console.WriteLine("Ramo Master");
         }
