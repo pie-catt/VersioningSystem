@@ -14,6 +14,7 @@ namespace MyVersion
             Console.ReadLine();
             Console.WriteLine("Ramo Master");
             Console.WriteLine("Ora ramo Beta");
+            Console.WriteLine("Secondo commit su Beta");
         }
     }
 }
